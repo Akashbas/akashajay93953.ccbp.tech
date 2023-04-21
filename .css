@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-con {
+  background-color: #ffb6c1;
+  height: 100vh;
+  padding: 20px;
+  color: #00008b;
+  font-family: "Roboto";
+  font-size: 12px;
+}
+
+.profile-logo-con {
+  padding: 10px;
+}
+
+.profile-des-con {
+  text-align: center;
+  margin-top: 5px;
+}
+
+.profile-name-con {
+  padding-left: 10px;
+  padding-top: 5px;
+}
+
+.profile-head {
+  font-weight: 650;
+}
+
+.address-con {
+  padding-left: 60px;
+}
+
+.vr-line {
+  width: 5px;
+  height: 162px;
+  position: absolute;
+  left: 50%;
+  background-color: #00008b;
+  margin-left: 10px;
+}
+
+.sec-section-con {
+  padding-left: 25px;
+}
+
+.sec-section-des {
+  font-weight: bold;
+}
+
+.vrs-line {
+  width: 5px;
+  height: 247px;
+  position: absolute;
+  left: 50%;
+  background-color: #00008b;
+  margin-left: 10px;
+}
+
+.ins-row {
+  text-align: center;
+  margin-left: 100px;
+}
+
+.lst-con {
+  margin-left: 100px;
+}
